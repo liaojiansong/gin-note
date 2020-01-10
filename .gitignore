@@ -1,0 +1,5 @@
+*.exe
+*.exe~
+.idea
+*.iml
+avatar/
